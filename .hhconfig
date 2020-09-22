@@ -1,1 +1,1 @@
-allowed_fixme_codes_strict = 2050, 4110
+allowed_fixme_codes_strict = 2050, 4110, 4128, 2071
